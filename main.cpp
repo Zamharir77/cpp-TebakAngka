@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+#by: Moh Nur Zamharir
+
 using namespace std;
 
 int main()
